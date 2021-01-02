@@ -1,0 +1,25 @@
+.heading {
+    float: right;
+    margin-top: 100px;
+    margin-right: 500px;
+}
+
+.vl{
+    border-bottom: 5px solid black;
+    margin-top: 150px;
+    border-radius: 5px;
+    width: 800px;
+    margin-left: 400px;
+}
+
+.prof{
+    border-radius: 50%;
+    height: 400px;
+    display:inline;
+}
+
+.intro{
+    padding-left: 500px;
+    float: right;
+    display: inline;
+}
