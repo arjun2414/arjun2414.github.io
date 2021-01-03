@@ -2,6 +2,7 @@
     float: right;
     margin-top: 100px;
     margin-right: 500px;
+    font-family: sans-serif;
 }
 
 .vl{
@@ -12,14 +13,39 @@
     margin-left: 400px;
 }
 
-.prof{
+img{
     border-radius: 50%;
     height: 400px;
-    display:inline;
+    
 }
 
-.intro{
-    padding-left: 500px;
-    float: right;
-    display: inline;
+p{
+    font-size: large;
+    font-family: sans-serif;
+    padding-left: 100px;
+    padding-right: 300px;
 }
+
+.item1{
+    flex-grow: 1;
+    padding-left: 50px;
+    
+}
+
+.item2{
+    flex-grow: 1;
+}
+
+.container{
+    display: flex;
+    justify-content: flex-end;
+    float: left;
+
+}
+
+
+
+
+
+
+
