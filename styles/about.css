@@ -1,13 +1,12 @@
 .heading {
     float: right;
-    margin-top: 100px;
     margin-right: 500px;
     font-family: sans-serif;
 }
 
 .vl{
     border-bottom: 5px solid black;
-    margin-top: 150px;
+    padding-top: 80px;
     border-radius: 5px;
     width: 800px;
     margin-left: 400px;
@@ -29,20 +28,27 @@ p{
 .item1{
     flex-grow: 1;
     padding-left: 50px;
-    
+    background-color: white;
 }
 
 .item2{
     flex-grow: 1;
+    background-color: white;
 }
 
 .container{
     display: flex;
     justify-content: flex-end;
     float: left;
-
 }
 
+.bg{
+    background-color: white;
+}
+
+.pad{
+    padding: 50px;
+}
 
 
 

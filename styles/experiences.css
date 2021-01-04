@@ -1,0 +1,47 @@
+.ant{
+    height: 350px;
+
+    
+}
+
+.ischolars{
+    width: 400px;
+   
+}
+
+.cgi{
+    width: 400px;
+    
+}
+
+.turbine{
+    height: 350px;
+    padding-left: 75px;
+}
+
+
+.exp2{
+    
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.container{
+    display: flex;
+    background-color: white;
+    border-radius: 3%;
+    float: right;
+    font-family: sans-serif;
+    padding-left: 20px;
+}
+
+p{
+    font-size: large;
+    padding-right: 50px;
+}
+
+.pad{
+    padding: 50px;
+}
