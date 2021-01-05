@@ -31,7 +31,6 @@
 .container{
     display: flex;
     background-color: white;
-    border-radius: 3%;
     float: right;
     font-family: sans-serif;
     padding-left: 20px;
